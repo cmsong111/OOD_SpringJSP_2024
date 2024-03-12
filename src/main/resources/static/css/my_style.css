@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.padding_bottom_30px {
+	margin-bottom: 30px;
+}
+
+.box {
+	border: 2px solid;
+	margin: 20px;
+	padding: 10px;
+}
+
+.center {
+	margin: 0 auto;
+	text-align: center; 
+}
+
+li {
+	margin-bottom: 10px;
+}
+
