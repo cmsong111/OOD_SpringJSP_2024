@@ -1,0 +1,8 @@
+<%@page contentType="text/html" pageEncoding="UTF-8" %>
+
+<br>
+<br>
+<br>
+
+<a href="javascript:history.back()">이전화면으로 이동</a>
+<a href="${pageContext.request.contextPath}/">주 화면으로 이동</a>

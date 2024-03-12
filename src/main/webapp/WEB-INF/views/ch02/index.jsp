@@ -60,5 +60,6 @@
         }
     %>
 </p>
+<%@include file="/WEB-INF/jspf/main_footer.jspf" %>
 </body>
 </html>
