@@ -3,7 +3,7 @@
 
 <%! int visitCount = 0; %>
 
-<html>
+<html lang="ko">
 <head>
     <title>footer.jsp</title>
 </head>

@@ -1,9 +1,8 @@
 <%--
-    Document : index
-    Created on : 2024-03-12, 18:30:00
-    Author : Namju Kim
+  User: Namju Kim
+  Date: 2024-03-12
+  Time: 오호 18:30
 --%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html lang="ko">
