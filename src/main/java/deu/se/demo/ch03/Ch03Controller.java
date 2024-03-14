@@ -22,4 +22,9 @@ public class Ch03Controller {
     public String errorPageWithErrorPage(){
         return "ch03/page/show_error";
     }
+
+    @GetMapping("/include")
+    public String include(){
+        return "ch03/include/index";
+    }
 }
