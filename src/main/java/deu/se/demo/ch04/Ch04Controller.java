@@ -46,4 +46,8 @@ public class Ch04Controller {
         return "ch04/include/index";
     }
 
+    @RequestMapping(value = "/forward", method = {RequestMethod.GET, RequestMethod.POST})
+    public String ch04ForwardTest(HttpServletRequest request) {
+        return "ch04/forward/index";
+    }
 }
